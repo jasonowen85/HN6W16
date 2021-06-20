@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "E:\\AsWorkSpace\\HN6w16\\Core\\CMakeLists.txt",
+    "E:\\ndk\\android-ndk-r21b\\build\\cmake\\platforms.cmake",
+    "E:\\ndk\\android-ndk-r21b\\build\\cmake\\android.toolchain.cmake",
+    "E:\\AsWorkSpace\\HN6w16\\mmkv\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AsWorkSpace\\HN6w16\\mmkv\\.cxx\\cmake\\SharedCppRelease\\x86\" clean"
+  ],
+  "buildTargetsCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\AsWorkSpace\\HN6w16\\mmkv\\.cxx\\cmake\\SharedCppRelease\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mmkv-Release-x86": {
+      "artifactName": "mmkv",
+      "buildCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AsWorkSpace\\HN6w16\\mmkv\\.cxx\\cmake\\SharedCppRelease\\x86\" mmkv",
+      "abi": "x86",
+      "output": "E:\\AsWorkSpace\\HN6w16\\mmkv\\build\\intermediates\\cmake\\SharedCppRelease\\obj\\x86\\libmmkv.so",
+      "runtimeFiles": []
+    },
+    "core-Release-x86": {
+      "artifactName": "core",
+      "buildCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\AsWorkSpace\\HN6w16\\mmkv\\.cxx\\cmake\\SharedCppRelease\\x86\" core",
+      "abi": "x86",
+      "output": "E:\\AsWorkSpace\\HN6w16\\mmkv\\.cxx\\cmake\\SharedCppRelease\\x86\\Core\\libcore.a",
+      "runtimeFiles": []
+    }
+  }
+}

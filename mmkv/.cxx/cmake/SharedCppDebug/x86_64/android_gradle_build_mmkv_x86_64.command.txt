@@ -1,0 +1,7 @@
+Executable : E:\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\AsWorkSpace\HN6w16\mmkv\.cxx\cmake\SharedCppDebug\x86_64
+mmkv
+jvmArgs : 
+

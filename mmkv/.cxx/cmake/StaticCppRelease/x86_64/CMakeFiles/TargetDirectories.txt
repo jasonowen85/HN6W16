@@ -1,0 +1,6 @@
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/StaticCppRelease/x86_64/CMakeFiles/mmkv.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/StaticCppRelease/x86_64/CMakeFiles/edit_cache.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/StaticCppRelease/x86_64/CMakeFiles/rebuild_cache.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/StaticCppRelease/x86_64/Core/CMakeFiles/core.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/StaticCppRelease/x86_64/Core/CMakeFiles/edit_cache.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/StaticCppRelease/x86_64/Core/CMakeFiles/rebuild_cache.dir

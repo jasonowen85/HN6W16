@@ -1,0 +1,211 @@
+[
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmmkv_EXPORTS -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o CMakeFiles\\mmkv.dir\\src\\main\\cpp\\native-bridge.cpp.o -c E:\\AsWorkSpace\\HN6w16\\mmkv\\src\\main\\cpp\\native-bridge.cpp",
+  "file": "E:/AsWorkSpace/HN6w16/mmkv/src/main/cpp/native-bridge.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMKV.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMKV.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMKV.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMKV_Android.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMKV_Android.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMKV_Android.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMKV_IO.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMKV_IO.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMKV_IO.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMKV_OSX.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMKV_OSX.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMKV_OSX.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMKVLog.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMKVLog.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMKVLog.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMKVLog_Android.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMKVLog_Android.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMKVLog_Android.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\CodedInputData.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputData.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputData.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\CodedInputData_OSX.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputData_OSX.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputData_OSX.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\CodedInputDataCrypt.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputDataCrypt.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputDataCrypt.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\CodedInputDataCrypt_OSX.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputDataCrypt_OSX.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\CodedInputDataCrypt_OSX.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\CodedOutputData.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\CodedOutputData.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\CodedOutputData.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\KeyValueHolder.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\KeyValueHolder.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\KeyValueHolder.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\PBUtility.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\PBUtility.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\PBUtility.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MiniPBCoder.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MiniPBCoder.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MiniPBCoder.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MiniPBCoder_OSX.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MiniPBCoder_OSX.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MiniPBCoder_OSX.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MMBuffer.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MMBuffer.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MMBuffer.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\InterProcessLock.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\InterProcessLock.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\InterProcessLock.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\InterProcessLock_Win32.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\InterProcessLock_Win32.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\InterProcessLock_Win32.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\InterProcessLock_Android.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\InterProcessLock_Android.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\InterProcessLock_Android.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MemoryFile.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MemoryFile_Android.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile_Android.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile_Android.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MemoryFile_Win32.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile_Win32.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile_Win32.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\MemoryFile_OSX.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile_OSX.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\MemoryFile_OSX.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\ThreadLock.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\ThreadLock.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\ThreadLock.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\ThreadLock_Win32.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\ThreadLock_Win32.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\ThreadLock_Win32.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\aes\\AESCrypt.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\AESCrypt.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\AESCrypt.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\aes\\openssl\\openssl_aes_core.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_aes_core.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_aes_core.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\aes\\openssl\\openssl_cfb128.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_cfb128.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_cfb128.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\aes\\openssl\\openssl_md5_dgst.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_md5_dgst.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_md5_dgst.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\aes\\openssl\\openssl_md5_one.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_md5_one.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_md5_one.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target x86_64-none-linux-android21 -gcc-toolchain E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o Core\\CMakeFiles\\core.dir\\aes\\openssl\\openssl_aesv8-armx.S.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_aesv8-armx.S",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_aesv8-armx.S"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target x86_64-none-linux-android21 -gcc-toolchain E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o Core\\CMakeFiles\\core.dir\\aes\\openssl\\openssl_aes-armv4.S.o -c E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_aes-armv4.S",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\aes\\openssl\\openssl_aes-armv4.S"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\crc32\\crc32_armv8.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\crc32\\crc32_armv8.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\crc32\\crc32_armv8.cpp"
+},
+
+{
+  "directory": "E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/x86_64",
+  "command": "E:\\ndk\\android-ndk-r21b\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/ndk/android-ndk-r21b/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -IE:/AsWorkSpace/HN6w16/Core  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z -o Core\\CMakeFiles\\core.dir\\crc32\\zlib\\crc32.cpp.o -c E:\\AsWorkSpace\\HN6w16\\Core\\crc32\\zlib\\crc32.cpp",
+  "file": "E:\\AsWorkSpace\\HN6w16\\Core\\crc32\\zlib\\crc32.cpp"
+}
+]

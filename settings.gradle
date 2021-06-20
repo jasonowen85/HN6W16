@@ -1,0 +1,8 @@
+include ':mmkv'
+include ':sourcemngproxy'
+project(':sourcemngproxy').projectDir = new File('proxy/sourcemngproxy')
+
+include ':sourcemngservice'
+project(':sourcemngservice').projectDir = new File('service/sourcemngservice')
+//include ':signDemo'
+//project(':signDemo').projectDir = new File('service/signDemo')

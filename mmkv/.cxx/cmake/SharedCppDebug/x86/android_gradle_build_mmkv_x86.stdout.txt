@@ -1,0 +1,38 @@
+ninja: Entering directory `E:\AsWorkSpace\HN6w16\mmkv\.cxx\cmake\SharedCppDebug\x86'
+[1/37] Building CXX object Core/CMakeFiles/core.dir/CodedInputData_OSX.cpp.o
+[2/37] Building CXX object Core/CMakeFiles/core.dir/MMKVLog.cpp.o
+[3/37] Building CXX object Core/CMakeFiles/core.dir/KeyValueHolder.cpp.o
+[4/37] Building CXX object Core/CMakeFiles/core.dir/MMKV_Android.cpp.o
+[5/37] Building CXX object Core/CMakeFiles/core.dir/MMKV_OSX.cpp.o
+[6/37] Building CXX object Core/CMakeFiles/core.dir/CodedInputData.cpp.o
+[7/37] Building CXX object Core/CMakeFiles/core.dir/MMKVLog_Android.cpp.o
+[8/37] Building CXX object CMakeFiles/mmkv.dir/src/main/cpp/native-bridge.cpp.o
+[9/37] Building CXX object Core/CMakeFiles/core.dir/MMKV.cpp.o
+[10/37] Building CXX object Core/CMakeFiles/core.dir/PBUtility.cpp.o
+[11/37] Building CXX object Core/CMakeFiles/core.dir/CodedInputDataCrypt_OSX.cpp.o
+[12/37] Building CXX object Core/CMakeFiles/core.dir/MMKV_IO.cpp.o
+[13/37] Building CXX object Core/CMakeFiles/core.dir/MiniPBCoder_OSX.cpp.o
+[14/37] Building CXX object Core/CMakeFiles/core.dir/MMBuffer.cpp.o
+[15/37] Building CXX object Core/CMakeFiles/core.dir/CodedOutputData.cpp.o
+[16/37] Building CXX object Core/CMakeFiles/core.dir/CodedInputDataCrypt.cpp.o
+[17/37] Building CXX object Core/CMakeFiles/core.dir/InterProcessLock.cpp.o
+[18/37] Building CXX object Core/CMakeFiles/core.dir/InterProcessLock_Win32.cpp.o
+[19/37] Building CXX object Core/CMakeFiles/core.dir/MemoryFile_Win32.cpp.o
+[20/37] Building CXX object Core/CMakeFiles/core.dir/MemoryFile_Android.cpp.o
+[21/37] Building CXX object Core/CMakeFiles/core.dir/InterProcessLock_Android.cpp.o
+[22/37] Building CXX object Core/CMakeFiles/core.dir/MemoryFile_OSX.cpp.o
+[23/37] Building CXX object Core/CMakeFiles/core.dir/ThreadLock_Win32.cpp.o
+[24/37] Building CXX object Core/CMakeFiles/core.dir/MiniPBCoder.cpp.o
+[25/37] Building CXX object Core/CMakeFiles/core.dir/aes/AESCrypt.cpp.o
+[26/37] Building CXX object Core/CMakeFiles/core.dir/aes/openssl/openssl_md5_one.cpp.o
+[27/37] Building CXX object Core/CMakeFiles/core.dir/aes/openssl/openssl_md5_dgst.cpp.o
+[28/37] Building CXX object Core/CMakeFiles/core.dir/MemoryFile.cpp.o
+[29/37] Building ASM object Core/CMakeFiles/core.dir/aes/openssl/openssl_aesv8-armx.S.o
+[30/37] Building CXX object Core/CMakeFiles/core.dir/aes/openssl/openssl_aes_core.cpp.o
+[31/37] Building ASM object Core/CMakeFiles/core.dir/aes/openssl/openssl_aes-armv4.S.o
+[32/37] Building CXX object Core/CMakeFiles/core.dir/ThreadLock.cpp.o
+[33/37] Building CXX object Core/CMakeFiles/core.dir/aes/openssl/openssl_cfb128.cpp.o
+[34/37] Building CXX object Core/CMakeFiles/core.dir/crc32/crc32_armv8.cpp.o
+[35/37] Building CXX object Core/CMakeFiles/core.dir/crc32/zlib/crc32.cpp.o
+[36/37] Linking CXX static library Core\libcore.a
+[37/37] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\SharedCppDebug\obj\x86\libmmkv.so

@@ -1,0 +1,6 @@
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/armeabi-v7a/CMakeFiles/mmkv.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/armeabi-v7a/Core/CMakeFiles/core.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/armeabi-v7a/Core/CMakeFiles/edit_cache.dir
+E:/AsWorkSpace/HN6w16/mmkv/.cxx/cmake/SharedCppDebug/armeabi-v7a/Core/CMakeFiles/rebuild_cache.dir
